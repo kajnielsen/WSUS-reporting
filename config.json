@@ -1,0 +1,5 @@
+{"WSUS_Servers":[
+    {"Name": "name.domain-name.tld", "UseSSL": "$True/$False", "Port": "Portnumber"},
+    {"Name": "BORG-SCOM01.ba-reman.local", "UseSSL": "$False", "Port": 8530}
+]}
+
